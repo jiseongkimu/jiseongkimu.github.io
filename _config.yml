@@ -7,7 +7,8 @@
 
 # Name of website
 title: My Website
-
+url: https://jiseongkimu.github.io
+baseurl:/
 # Your name to show in the footer
 author: Some Person
 
